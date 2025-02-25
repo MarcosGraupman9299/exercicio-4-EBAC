@@ -10,5 +10,10 @@ h3{
 
 html{
     align-items: center;
+    
+}
+
+.cabec{
     display: flex;
+    align-items: center;
 }
